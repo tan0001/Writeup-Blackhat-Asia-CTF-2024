@@ -1,0 +1,11 @@
+Challenge Name : Easy Web
+
+Points : 50
+
+Description : 
+Find the flag hidden somewhere in the website
+
+https://bugcrowd-easy-web.chals.io/
+
+Solution :
+This was the most easiest challenge. Just open the website in your browser and inspect the source code. Flag is hidden in the code as commented text.
