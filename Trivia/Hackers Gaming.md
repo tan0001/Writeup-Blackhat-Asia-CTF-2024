@@ -1,6 +1,10 @@
-Hackers Gaming
+Name : Hackers Gaming
 
-25
+Points : 25
 
-remote onsite
+Description :
 What game was played by Kate and Dade in the Cyberdelia during Hackers (1995)?
+
+Answer : Wipeout
+
+Flag : flag{Wipeout}
