@@ -1,8 +1,10 @@
-Pagers
+Name : Pagers
 
-25
+Points : 25
 
-remote onsite
+Description :
 What is the Pager Brand and Model used by Dade Murphy in Hackers (1995)?
 
 Flag format: flag{space_delimiter}
+
+Flag : flag{}
